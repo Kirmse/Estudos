@@ -17,12 +17,44 @@ As informações pedidas e enviadas não tem uma linha única e reta por conta d
 tendo vários caminhos para se fazer e escolher, isso evita muitas falhas, pois se um caminho está com 
 problemas, então ela vai encontrar outro caminho melhor para te mandar o que foi pedido.
 
-HTTP (Hyper Text Tranfer Protocol) - é o seu pedido, é aquilo que você escreve em "pesquisar" e Logo 
-depois do ENTER aparece o que você escreveu.
+HTTP (Hyper Text Transfer Protocol) - é como fazemos nossos pedidos na web ao digitarmos na barra de 
+pesquisa e pressionarmos ENTER. Ele traz instantaneamente o que buscamos.
 
-HTML (Htper Text Markup Language) - é a linguagem ultilizada para dizer como um site deve ser, no caso, 
-sua aparencia.
+HTML (Hyper Text Markup Language) - é como as instruções mágicas para os sites - ele define como as 
+páginas aparecem.
 
-SSL (Secure Sockets Layer) & TLS (Transport Layer Security) - é uma camada segura da internet que envolve 
-comunicações para protegê-las contra bisbilhotagem ou a manipulações. Você pode velos ao lado do HTTP, 
-sendo eles o cadeado. 
+Ah, não podemos esquecer do SSL e do TLS, aquelas camadas de segurança com um cadeado ao lado do HTTP. 
+Eles mantêm nossas conversas online protegidas, impedindo que bisbilhoteiros vejam ou manipulem nossas 
+informações.
+
+
+DNS (Domain Name System) - é o que converte o IP addres do site, no caso aquele numero grandão, para 
+o que conhecemos, como exemplo: google.com ---> 216.58.210.142 . Isso faz com que a gente não precise
+lembrar de números gigantes para acessar um simples site.
+
+
+------------------------- O site é desconhecido -------------------------
+
+Então, quando você joga um site na barra de busca e dá um "Enter", é tipo o start de uma viagem online. 
+Aí, rola essa parada chamada protocolo HTTP (Hyper Text Transfer Protocol).
+
+E aí aparece o DNS (Domain Name System), que é tipo um tradutor de site. Ele pega aquele nome legal do 
+site, tipo "google.com", e transforma em um número maluco que os computadores entendem.
+
+Aí, seu navegador fica de olho e tenta achar o site por conta própria. Se não rola, ele bate na porta 
+do sistema operacional (OS) pra ver se consegue uma mãozinha.
+
+Se nem o OS sabe o que fazer, aí ele grita pro provedor de internet (ISP) que tem uns servidores DNS. 
+Eles tentam desenrolar o que você tá querendo.
+
+Mas quando tá tudo indo pro buraco, a parada vai pros servidores raiz. Eles são como os chefões do DNS.
+
+Depois disso, vai pros servidores que cuidam dos nomes de domínio, tipo .COM. E o pessoal do 
+ICANN, que manda muito na internet, tá por trás disso.
+
+Os caras do .COM conseguem ligar os pontos e descobrir quais servidores de nome tão envolvidos com o 
+site que você quer.
+
+E ta aí! O IP tá resolvido e seu navegador faz um alô pro servidor do site.
+
+Com o IP na mão, seu navegador bate um papo direto com o servidor e traz a página que você queria ver.
