@@ -1,0 +1,28 @@
+A internet primeiro veio de um projeto chamado ARPANET, que significa "Advanced Research Projects Agency Network".
+Foi uma rede de computadores desenvolvida pela ARPA (agora conhecida como DARPA) nos Estados Unidos. 
+
+Binary Code (BITS) - É a informação que enviamos para outros ateavez da internet. Representando "sim" (1) ou "não" (0). 
+Essas unidades binárias compõem dados, como endereços IP e conteúdo da web, fundamentais para a comunicação online.
+
+8 BITS == 1 BYTE
+1024 BYTES == 1 KILOBYTE 
+1024 KILOBYTES == 1 MEGABYTE
+
+Todos os diferentes aparelhos na internet tem um endereço único, que são apenas números, os IP addres.
+                  casa ⬊         ⬋ cidade
+Por exemplo: um IP como 175.129.14.120
+                       rua ⬈         ⬉ país
+
+As informações pedidas e enviadas não tem uma linha única e reta por conta do tráfego e dos problemas.
+tendo vários caminhos para se fazer e escolher, isso evita muitas falhas, pois se um caminho está com 
+problemas, então ela vai encontrar outro caminho melhor para te mandar o que foi pedido.
+
+HTTP (Hyper Text Tranfer Protocol) - é o seu pedido, é aquilo que você escreve em "pesquisar" e Logo 
+depois do ENTER aparece o que você escreveu.
+
+HTML (Htper Text Markup Language) - é a linguagem ultilizada para dizer como um site deve ser, no caso, 
+sua aparencia.
+
+SSL (Secure Sockets Layer) & TLS (Transport Layer Security) - é uma camada segura da internet que envolve 
+comunicações para protegê-las contra bisbilhotagem ou a manipulações. Você pode velos ao lado do HTTP, 
+sendo eles o cadeado. 
