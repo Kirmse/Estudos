@@ -58,3 +58,5 @@ site que você quer.
 E ta aí! O IP tá resolvido e seu navegador faz um alô pro servidor do site.
 
 Com o IP na mão, seu navegador bate um papo direto com o servidor e traz a página que você queria ver.
+
+OBS: Domain is addres to a website.
