@@ -1,0 +1,40 @@
+------------------------- > Ciclo de desenvolvimento de software < -------------------------
+
+1º Idealização - ter a ideia do projeto.
+
+2º Especificação de requisitos - Documentar o que o software deve ou não deve resolver. Defina os requisítos.
+
+3º Validação da solução - Veja se você fez tudos os requisitos. 
+
+4º Desenvolvimento e teste - Começar a programar e fazer testes. 
+
+5º Implantação e entrega - Depois de concluído, você poderá fazer a instalação do código na sua máquina.
+
+------------------------->          <-------------------->          < -------------------------
+
+Aprenda a resolver porblemas na análise crítica. A lógica de programação, a lógica em si, é amis importante do que você aprender ou decorar a sintaxe de uma linguagem. Resolver problemas é 
+sua melhor e mais importante ferramenta.
+
+Método 5P
+
+1º - Quais são os dados de entrada necessários?
+2º - O que devo fazer com esses dados?
+3º - Quais são as restrições desse problema?
+4º - Qual é o resultado esperado?
+5º - Qual é a sequencia de passos a ser feitas para chegar no resultado esperado?
+
+
+
+Algoritimo de como ligar para seu amigo: 
+
+passo 1 - pegar um celular
+passo 2 - desbloquer a tela
+passo 3 - verificar se tem sinal na operadora
+passo 4 - navegue até o discador do celular
+passo 5 - disque o número do amigo
+passo 6 - aperte o botão de ligar
+passo 7 - esperar que a amigo atenta
+se o amigo atender
+    passo 8 - conversar com ele
+senão
+    passo 8 - deixar uma msg pedindo para que retorne.
